@@ -1,0 +1,902 @@
+{"qid": 5095, "query": "The rabbit moves and starts eating", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5096, "query": "The rabbit stands in front of another rabbit", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5097, "query": "The rabbit bites the carrot", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5098, "query": "The rabbit looks up from the food", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5099, "query": "The lizard walks towards the camera and eats", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5100, "query": "The rabbit walks away from the food and disappears to the left side of the camera", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5101, "query": "The rabbit goes behind another rabbit", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5102, "query": "The rabbit jumps to the right and disappears to the right side of the camera", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5103, "query": "The turtle walks on the food", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5104, "query": "The chicken appears from the right side of the camera", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5105, "query": "The rabbit moves its paws down to the ground and hops to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5106, "query": "The rabbit hops to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5107, "query": "The rabbit hops to the left", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5108, "query": "The rabbit turns to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5109, "query": "The rabbit moves to the left", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5110, "query": "The rabbit starts walking from a still position", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5111, "query": "The rabbit turns around and looks behind", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5112, "query": "The giraffe straightens its neck", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5113, "query": "The giraffe bends its neck around another giraffe", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5114, "query": "The giraffe chews food", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5115, "query": "The dog turns around and looks down at the object on the ground", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5116, "query": "The dog stops walking and looks around", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5117, "query": "The dog appears from the right and walks between other dogs", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5118, "query": "The car disappears from the right side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5119, "query": "The bike disappears from the right side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5120, "query": "The person disappears from the right side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5121, "query": "The bike overtakes another bike", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5122, "query": "The bike speeds away from the other bikes", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5123, "query": "The person speeds away from the other bikers", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5124, "query": "The bike disappears from the left side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5125, "query": "The person disappears from the left side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5126, "query": "The person puts up his leg from the road on the bike", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5127, "query": "The bike gets covered by another bikers in front of the camera", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5128, "query": "The fish ascends upwards", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5129, "query": "The fish positions itself vertically as it looks down on the lower surface", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5130, "query": "The fish moves its tails swiftly and goes to the right", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5131, "query": "The fish positions itself in a straight from a diagonal position", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5132, "query": "The fish moves slowly towards the right", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5133, "query": "The zebra disappears from the frame to the right side of the camera", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5134, "query": "The zebra runs to the middle of the pool of water", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5135, "query": "The zebra turns around and walks towards the pool of water", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5136, "query": "The zebra moves its head up and turns in a circle", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5137, "query": "The car disappears to the right side of the frame", "vid": "f326bfb7_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5138, "query": "The car appears from the left side of the frame", "vid": "f326bfb7_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5139, "query": "The biker disappears from the right side of the frame", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5140, "query": "The bike disappears from the right side of the frame", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5141, "query": "The biker falls on the ground from a levitating position", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5142, "query": "The person looks behind", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5143, "query": "The biker jumps in the air with his bike", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5144, "query": "The bike jumps in the air", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5145, "query": "The horse turns from the left to the right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5146, "query": "The horse walks behind another horse", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5147, "query": "The horse starts walking to the right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5148, "query": "The person walks the horse to the right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5149, "query": "The person moves the camera down from his face", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5150, "query": "The person lowers his body a little bit from a standing position", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5151, "query": "The person watches the horses", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5152, "query": "The person hands something to another person", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5153, "query": "The person runs and grabs a horse's body", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5154, "query": "The cat sits on the floor", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5155, "query": "The cat turns around and walks back", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5156, "query": "The cat lays down from a sitting position", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5157, "query": "The horse walks to the right slightly and faces away from the camera", "vid": "ec6fd219_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5158, "query": "The horse turns from the right to the left", "vid": "ec6fd219_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5159, "query": "The turtle disappears to the right side of the frame", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5160, "query": "The turtle takes a left turn", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5161, "query": "The turtle turns around and moves away from the camera", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5162, "query": "The turtle gets covered by the shadows of another turtle above", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5163, "query": "The turtle appears from the left side of the frame", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5164, "query": "The turtle sits on the floor below another turtle", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5165, "query": "The boat moves behind other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5166, "query": "The person moves behind other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5167, "query": "The boat moves in front of other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5168, "query": "The person moves in front of other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5169, "query": "The boat moves between other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5170, "query": "The person moves between other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5171, "query": "The boat turns from the right to the left", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5172, "query": "The person turns the boat from the right to the left", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5173, "query": "The turtle turns around and faces towards the direction of the camera", "vid": "ebd1dbad_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5174, "query": "The turtle moves away from the camera", "vid": "ebd1dbad_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5175, "query": "The panda lays down on the ground from a seated position", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5176, "query": "The person puts a cloth near the face of the panda", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5177, "query": "The person grabs the arm of the panda with her hand", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5178, "query": "The panda follows the person with cloth", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5179, "query": "The panda appears from the left side of the frame", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5180, "query": "The person appears from the left side of the frame", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5181, "query": "The person appears from the right side of the frame", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5182, "query": "The panda appears from the right side of the frame", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5183, "query": "The lion stands up from a seated position", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5184, "query": "The zebra pushes the lion with its head", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5185, "query": "The zebra escapes from the jaws of the lion", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5186, "query": "The boat moves in a circle around a yellow object on the sea", "vid": "e3d901dd_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5187, "query": "The person moves in a circle around a yellow object on the sea", "vid": "e3d901dd_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5188, "query": "The fish turns from the left to the right", "vid": "d50fa72e_0.0_144.0", "pred_relevant_windows": []}
+{"qid": 5189, "query": "The fish swims slightly to the right", "vid": "d50fa72e_0.0_144.0", "pred_relevant_windows": []}
+{"qid": 5190, "query": "The cycle makes a u-turn", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5191, "query": "The boy makes a u-turn with the cycle", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5192, "query": "The boy turns around from the left to the right", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5193, "query": "The person gets covered for a bit behind the boy", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5194, "query": "The zebra gets up from the water container to the ground", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5195, "query": "The zebra turns around and walks away from the water container", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5196, "query": "The zebra is pushed into the surface that contains water", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5197, "query": "The zebra turns around from the left to the right", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5198, "query": "The zebra kick the gate and turns to the right", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5199, "query": "The zebra turns around and faces away from the gate", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5200, "query": "The zebra walks across the face of the gate", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5201, "query": "The bird turns to the left", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5202, "query": "The bird looks to the right", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5203, "query": "The bird flies towards the camera", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5204, "query": "The bird jumps up to a higher platform", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5205, "query": "The bird looks to its right and left", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5206, "query": "The bird turns around and looks away from the camera", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5207, "query": "The bird looks slightly to its left", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5208, "query": "The panda falls on its back", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5209, "query": "The panda pushes another panda to the ground", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5210, "query": "The panda scratches its face with its paws", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5211, "query": "The fish rotates and faces the opposite direction", "vid": "d33e1c97_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5212, "query": "The zebra walks away from the camera", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5213, "query": "The zebra moves its head to the left on the grass", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5214, "query": "The zebra takes a slight turn to the right", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5215, "query": "The zebra disappears from the frame to the left side of the camera", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5216, "query": "The zebra rotates its body and faces left", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5217, "query": "The duck turns around and walks to the right", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5218, "query": "The duck turns around and faces right", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5219, "query": "The duck walks away from the camera and turns to the left", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5220, "query": "The duck starts walking", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5221, "query": "The horse walks behind another horse", "vid": "d084134f_0.0_192.0", "pred_relevant_windows": []}
+{"qid": 5222, "query": "The horse rotates its body slightly to the left", "vid": "d084134f_0.0_192.0", "pred_relevant_windows": []}
+{"qid": 5223, "query": "The cat turns around and walks away from the camera", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5224, "query": "The cat licks its leg", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5225, "query": "The cat turns around and looks back", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5226, "query": "The dog stands up from a lied down position", "vid": "caf53839_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5227, "query": "The dog pushes another dog with its head", "vid": "caf53839_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5228, "query": "The person disappears from the frame", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5229, "query": "The cow moves to the right", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5230, "query": "The cow moves to the left", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5231, "query": "The panda stands down on 4 legs", "vid": "c9dfbd0c_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5232, "query": "The panda engages in a fight with another panda", "vid": "c9dfbd0c_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5233, "query": "The ship remains still on the water", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5234, "query": "The boat slightly changes its direction to the right", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5235, "query": "The person looks down from the edge of the ship", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5236, "query": "The person walks away from the edge of the boat", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5237, "query": "The tiger moves down its head to the ground", "vid": "c9a2645e_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5238, "query": "The tiger pushes another tiger to the ground", "vid": "c9a2645e_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5239, "query": "The bus disappears from the frame to the right", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5240, "query": "The car disappears from the frame to the right", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5241, "query": "The person disappears behind a box as she walks", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5242, "query": "The person disappears behind a car", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5243, "query": "The car disappears behind another car", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5244, "query": "The bus appears from the left side of the frame", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5245, "query": "The car appears from the left side of the frame", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5246, "query": "The person disappears from the right side of the frame", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5247, "query": "The person overtakes other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5248, "query": "The cycle overtakes other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5249, "query": "The cycle gets blocked from the view by another cyclist", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5250, "query": "The person gets blocked from the view by another cyclist", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5251, "query": "The person on the bicycle looks from his right to front", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5252, "query": "The cycle goes past other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5253, "query": "The person appears from the left side of the frame", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5254, "query": "The cycle appears from the left side of the frame", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5255, "query": "The cyclist goes past other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5256, "query": "The person moves in a circle", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5257, "query": "The cycle moves in a circle", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5258, "query": "The car is still in the side of the road", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5259, "query": "The person turns around and walks towards the camera", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5260, "query": "The person turns around and moves towards the camera", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5261, "query": "The cow stops walking", "vid": "c705c014_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5262, "query": "The cow starts eating the leaves", "vid": "c705c014_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5263, "query": "The tiger walks behind another tiger", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5264, "query": "The tiger walks towards another tiger", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5265, "query": "The tiger appears from the upper side of the frame", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5266, "query": "The lizard turns to the left", "vid": "c587e43b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5267, "query": "The person's hand disappears from the left", "vid": "c587e43b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5268, "query": "The elephant walks under the trunk of another elephant", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5269, "query": "The elephant walks backwards", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5270, "query": "The elephant straightens its trunk across the face of another elephant", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5271, "query": "The fish swims out from behind the rock", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5272, "query": "The fish turns to the right", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5273, "query": "The fish swims downwards", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5274, "query": "The fish slowly descends", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5275, "query": "The fish swims up from between a rock and platform", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5276, "query": "The cows slips and sits on the ground", "vid": "ba5644c3_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5277, "query": "The cow turns to the right and looks away from the camera", "vid": "ba5644c3_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5278, "query": "The cow walks starts walking", "vid": "ba5644c3_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5279, "query": "The lizard looks down on the food bowl", "vid": "bd34e772_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5280, "query": "The lizard leans forward into the food bowl", "vid": "bd34e772_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5281, "query": "The dog stands up from a lied down position", "vid": "c29ce49d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5282, "query": "The dog jumps on another dog", "vid": "c29ce49d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5283, "query": "The horse overtakes other horses", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5284, "query": "The horseman overtakes other horsemen", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5285, "query": "The horse disappears from the right side of the frame", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5286, "query": "The horseman disappears from the right side of the frame", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5287, "query": "The horse gets blocked from the view by another horseman", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5288, "query": "The horseman gets blocked from the view by another horseman", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5289, "query": "The horse collides with another horse", "vid": "b8e00b22_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5290, "query": "The horse stands on its two back legs", "vid": "b8e00b22_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5291, "query": "The fish turns from the right to the left", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5292, "query": "The fish swims to the surface of the water", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5293, "query": "The fish swims away from the camera", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5294, "query": "The fish swims to the surface of the water", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5295, "query": "The fish ascends upwards", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5296, "query": "The fish turns from the right to the left", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5297, "query": "The dog starts walking to the left", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5298, "query": "The dog jumps at another dog", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5299, "query": "The dog walks backwards", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5300, "query": "The person rotates in a circle", "vid": "b643add8_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5301, "query": "The bike rotates on its back tire in a standing position", "vid": "b643add8_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5302, "query": "The elephant stops walking", "vid": "af48b2f9_0.0_232.0", "pred_relevant_windows": []}
+{"qid": 5303, "query": "The elephant raises its front legs on the body of another elephant", "vid": "af48b2f9_0.0_232.0", "pred_relevant_windows": []}
+{"qid": 5304, "query": "The person sits down on the ground", "vid": "af48b2f9_0.0_232.0", "pred_relevant_windows": []}
+{"qid": 5305, "query": "The car takes a right turn", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5306, "query": "The car disappears behind another car", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5307, "query": "The car disappears from the frame to the right", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5308, "query": "The panda jumps on another panda", "vid": "aaa8bd16_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5309, "query": "The panda throws another panda off of its body", "vid": "aaa8bd16_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5310, "query": "The cat looks towards the camera", "vid": "aa925437_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5311, "query": "The cat grabs the toy with its paw", "vid": "aa925437_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5312, "query": "The goat moves its mouth to the right and bites food", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5313, "query": "The goat walks towards the food near the steel bars", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5314, "query": "The goat brings its head out between the steel bars", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5315, "query": "The goat turns around and walks back", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5316, "query": "The goat moves its head away to the left", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5317, "query": "The zebra disappears from the frame to the left side of the camera", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5318, "query": "The zebra takes a slight step to the left", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5319, "query": "The zebra makes a swift leap", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5320, "query": "The zebra walks to the left", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5321, "query": "The cow appears from the right side of the frame", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5322, "query": "The cat bites at the hand", "vid": "a42fcfa9_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5323, "query": "The hand rises up to the face of the cat", "vid": "a42fcfa9_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5324, "query": "The plane changes direction to the left", "vid": "a74b52eb_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5325, "query": "The bird moves slightly to the left", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5326, "query": "The bird leans its mouth down on a food bowl", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5327, "query": "The bird looks down on the food bow", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5328, "query": "The rabbit disappears to the left side of the frame", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5329, "query": "The rabbit starts walking from a seated position", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5330, "query": "The rabbit turns around and walks towards the red bowl", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5331, "query": "The rabbit walks underneath other rabbits", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5332, "query": "The rabbit moves its head from the right to the left", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5333, "query": "The rabbit brings down its head from the top of the cage", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5334, "query": "The bull moves to the right", "vid": "a16e9661_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5335, "query": "The bull moves to the left", "vid": "a16e9661_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5336, "query": "The bird hops on another bird", "vid": "9069547d_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5337, "query": "The bird walks around another bird", "vid": "9069547d_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5338, "query": "The bear moves around the tree", "vid": "95718597_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5339, "query": "The cat attacks another cat", "vid": "69398c01_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5340, "query": "The cat is being rolled over by another cat", "vid": "69398c01_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5341, "query": "The boat moves sideways to the left and straightens itself", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5342, "query": "The ships falls on the water from an elevated surface", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5343, "query": "The boat moves sideways to the right and straightens itself", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5344, "query": "The monkey walks away from the box", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5345, "query": "The monkey grabs a yellow object", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5346, "query": "The monkey puts a yellow object in its mouth", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5347, "query": "The monkey takes an object from the box", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5348, "query": "The monkey disappears from the frame to the right side of the camera", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5349, "query": "The monkey grabs a yellow object and puts it in its mouth", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5350, "query": "The monkey stands by the edge of the box and looks at the contents in it", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5351, "query": "The monkey appears from behind another monkey", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5352, "query": "The bike leans from the left to the right", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5353, "query": "The biker leans from the left to the right", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5354, "query": "The bike overtakes another bike", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5355, "query": "The biker overtakes another biker", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5356, "query": "The sheep stands still", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5357, "query": "The sheep starts walking", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5358, "query": "The sheep turns to the left", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5359, "query": "The sheep appears in the frame from the right side of the camera", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5360, "query": "Panda is going to climb a tree", "vid": "1a4b95d3_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5361, "query": "Panda remains in the same position and refrains for going towards the tree", "vid": "1a4b95d3_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5362, "query": "Dog is walking towards the opposite of the camera", "vid": "1aa4e7f6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5363, "query": "Dog remains in the same position and refrains from walking", "vid": "1aa4e7f6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5364, "query": "Horse is walking towards the left side", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5365, "query": "Horse starts to walk towards the left side", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5366, "query": "Horse is circling around a person", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5367, "query": "Person is giving commands to the horse", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5368, "query": "Bird is flying towards the right side", "vid": "1ef6cb7b_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5369, "query": "Bird avoids from flying", "vid": "1ef6cb7b_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5370, "query": "Goat is going to the railing", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5371, "query": "Goat is walking towards the camera", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5372, "query": "Goat is looking towards left side", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5373, "query": "Bird is going inside of the food container from floor", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5374, "query": "Bird is disturbing other birds", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5375, "query": "Bird is circling around the food container", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5376, "query": "Bunny is sniffing on the bed sheet", "vid": "7223bf62_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5377, "query": "Bunny is eating leaves", "vid": "7223bf62_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5378, "query": "Person on bicycle is going towards the opposite of the camera", "vid": "6976cf19_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5379, "query": "Bicycle is going towards the opposite of the camera", "vid": "6976cf19_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5380, "query": "Tiger is walking towards the left side", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5381, "query": "Tiger is sniffing on the bus", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5382, "query": "Tiger refrains from walking", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5383, "query": "Bunny is fighting with another bunny", "vid": "4027a35b_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5384, "query": "Chicken is eating food from the floor", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5385, "query": "Chicken on the wall is going towards left side", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5386, "query": "Chicken is going from the floor to the top of the wall", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5387, "query": "Airplane is moving faster than another airplane", "vid": "1806a28d_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5388, "query": "Airplane is moving slower than another airplane", "vid": "1806a28d_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5389, "query": "Person is getting on a bicycle", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5390, "query": "Person is going towards left side with bicycle", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5391, "query": "Bicycle is moving towards left side", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5392, "query": "Dog is fighting with another dog", "vid": "1123fd76_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5393, "query": "Bird pecked another bird", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5394, "query": "Bird is going towards left side", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5395, "query": "Bird is falling down from plastic bottle", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5396, "query": "Bird has been pecked by another bird", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5397, "query": "Bird in the queue briefly comes the camera", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5398, "query": "Sheep is fighting with cow", "vid": "768c5810_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5399, "query": "Cow is fighting with sheep", "vid": "768c5810_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5400, "query": "Person is going to right side to park her bike", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5401, "query": "Bike is being taken to right side to park", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5402, "query": "Bike is stationary and parked", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5403, "query": "Bear is fighting with another bear", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5404, "query": "Bear entering into frame from right side is going towards left side", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5405, "query": "Vehicle entering into frame from left side is going outside of the frame in right side", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5406, "query": "Vehicle entering into frame from right side is going outside of the frame in left side", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5407, "query": "Person entering into frame from right side is going outside of the frame in left side", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5408, "query": "Vehicle entering into frame from right side is going towards left side", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5409, "query": "Person entering into frame from right side is going towards left side", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5410, "query": "Vehicle is stationary and parked along the road", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5411, "query": "Person is seated", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5412, "query": "Airplane is landing", "vid": "95a50b7d_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5413, "query": "Airplane is stationary and remains in the same position", "vid": "95a50b7d_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5414, "query": "Tiger is fighting with another tiger", "vid": "90d7f538_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5415, "query": "Monkey is eating something from the ground", "vid": "86b8e4ec_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5416, "query": "Monkey is going in front of another monkey", "vid": "86b8e4ec_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5417, "query": "Elephant is picking up the basket with its trunk and giving it to the person", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5418, "query": "Person is receiving the basket from the elephant's trunk", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5419, "query": "Person is giving signal with his right hand to start the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5420, "query": "Person watching the race from boundary", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5421, "query": "Person is standing with his elephant and watching the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5422, "query": "Elephant is standing with his master and watching the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5423, "query": "Ship is coming towards the camera", "vid": "71d35513_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5424, "query": "Ship is going towards the right side", "vid": "71d35513_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5425, "query": "Duck is going towards the left side", "vid": "68d9fb6a_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5426, "query": "Bird is flying towards the right and then perching on top of another bird", "vid": "48cd08af_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5427, "query": "Bird is going outside of the frame in bottom side by flying", "vid": "48cd08af_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5428, "query": "Turtle is swimming towards left side", "vid": "44a4d836_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5429, "query": "Turtle is swimming towards right side", "vid": "44a4d836_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5430, "query": "Tiger is walking towards the right side", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5431, "query": "Tiger is lying on the ground", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5432, "query": "Tiger is keeping its front legs on top of another tiger", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5433, "query": "Airplane on the runway is going towards left side", "vid": "35dff164_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5434, "query": "Airplane on the runway is stationary and remains in the same position", "vid": "35dff164_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5435, "query": "Bunny is going from the middle of the bunnies to the left of the bunnies", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5436, "query": "Bunny is going from the left of the bunnies to the middle of the bunnies", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5437, "query": "Bunny is looking towards the camera", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5438, "query": "Monkey is sniffing another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5439, "query": "Monkey is pushing another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5440, "query": "Monkey is being pushed another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5441, "query": "Monkey is being dragged by another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5442, "query": "Monkey is stationary and remains in the same position", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5443, "query": "Person on bike is circling around another bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5444, "query": "Bike is circling around another bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5445, "query": "Person is getting off the bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5446, "query": "Bike is stationary and remains in the same place", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5447, "query": "Giraffe is lifting another giraffe's back leg with its head", "vid": "9b318a9c_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5448, "query": "Giraffe's back leg is being lifted by another giraffe", "vid": "9b318a9c_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5449, "query": "Person is moving the bike towards the left side", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5450, "query": "Bike is being moved towards the left side by a person", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5451, "query": "Bike is stationary and remains in the same place", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5452, "query": "Person on bike is going from right side to left side", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5453, "query": "Bike is going from right side to left side", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5454, "query": "Giraffe is attacking another giraffe", "vid": "6c88a53b_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5455, "query": "Zebra is going towards right side", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5456, "query": "Zebra facing to the left side is turning towards the opposite of the camera", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5457, "query": "Zebra facing to the camera is turing towards the left side", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5458, "query": "Goat is keeping its front legs on the back of another goat", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5459, "query": "Goat is looking for something on the ground", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5460, "query": "Person is going towards the goats", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5461, "query": "Person is stationary and remains in the same position", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5462, "query": "Monkey is getting down to ground from the back of another monkey", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5463, "query": "Monkey is keeping its right hand on the left shoulder of another monkey", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5464, "query": "Monkey is inspecting the front side of another monkey's body with its hand", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5465, "query": "Lizard is fighting with another lizard", "vid": "3d8b1ee0_0.0_16.0", "pred_relevant_windows": []}
+{"qid": 5466, "query": "Elephant is walking towards the right side", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5467, "query": "Elephant is walking towards the left side", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5468, "query": "Elephant is walking towards the camera", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5469, "query": "Bird is going from the bottom of the cage to bird perch stand", "vid": "3c4f150c_0.0_250.0", "pred_relevant_windows": []}
+{"qid": 5470, "query": "Cat is going from right to left side", "vid": "2d802cb8_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5471, "query": "Cat is stationary and remains in the same position", "vid": "2d802cb8_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5472, "query": "Bird fighting with another bird", "vid": "2d0f3000_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5473, "query": "Cow is eating food from food container", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5474, "query": "Cow is walking backwards", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5475, "query": "Cow is sniffing on the food container", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5476, "query": "Yacht is going towards the right side", "vid": "2ca20519_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5477, "query": "Yacht is going towards the left side", "vid": "2ca20519_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5478, "query": "Zebra is eating grass in the field", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5479, "query": "Zebra is keeping its front legs on the back of another zebra", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5480, "query": "Zebra is looking towards the camera", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5481, "query": "Sheep is walking towards the opposite of the camera", "vid": "2a19d8a2_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5482, "query": "Dog is asserting dominance in the fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5483, "query": "Dog is being dominated during the fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5484, "query": "Giraffe standing near the fence is going towards the right side", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5485, "query": "Giraffe standing near the fence is eating leaves", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5486, "query": "Person is looking to the giraffe", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5487, "query": "Person on bike is jumping", "vid": "2b827e3a_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5488, "query": "Bike is jumping", "vid": "2b827e3a_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5489, "query": "Dog is fighting with another dog", "vid": "2b84174e_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5490, "query": "Dog is abstaining from participating in the fighting", "vid": "2b84174e_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5491, "query": "Cat is fighting with another cat", "vid": "2c22cd4e_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5492, "query": "Bear is fighting with another bear", "vid": "8b935b9f_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5493, "query": "Fish is going towards the right side", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5494, "query": "Fish in the water is going outside of the frame in bottom side", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5495, "query": "Fish in the water is going outside of the frame in left side", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5496, "query": "Fish entering into frame in right side is going towards the left side", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5497, "query": "Bird is going from the bottom of the cage to bird perch stand", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5498, "query": "Bird is making right turn", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5499, "query": "Bird seated on the bird perch stand moves to right side briefly", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5500, "query": "Bird on the bottom of the cage is stationary and remains in the same position all times", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5501, "query": "Bird seated on bird perch stand is stationary and remains in the same position all times", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5502, "query": "Duck is eating something from ground", "vid": "3d04522a_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5503, "query": "Duck abstain from eating food from ground", "vid": "3d04522a_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5504, "query": "Panda is eating food from food container", "vid": "7e52df6a_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5505, "query": "Monkey is stationary and remains in the same position all times", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5506, "query": "Monkey is going outside of the frame in right side", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5507, "query": "Monkey entering into frame from left side is sitting on a stone", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5508, "query": "Monkey entering into frame from left", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5509, "query": "Turtle is getting on the back of another turtle", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5510, "query": "Turtle is carrying another turtle on its back", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5511, "query": "Turtle is eating something in water", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5512, "query": "Cat is watching at something", "vid": "567bfc5a_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5513, "query": "Cat is stationary and remains in the same position all times", "vid": "567bfc5a_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5514, "query": "Bird is touching another bird's mouth with its beak", "vid": "5251dbb9_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5515, "query": "Bird is brought into frame by a person's hand", "vid": "5251dbb9_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5516, "query": "Goat is looking towards the camera", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5517, "query": "Goat is sniffing on the wall", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5518, "query": "Goat is looking right side while keeping its backside towards the camera", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5519, "query": "Goat from the right side is going at the back of other goats", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5520, "query": "Person on bike is going outside of the frame in right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5521, "query": "Bike is going outside of the frame in right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5522, "query": "Vehicle is going outside of the frame in right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5523, "query": "Vehicle is stationary and remains in the same position all times", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5524, "query": "Person on bike is going from right towards the left side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5525, "query": "Bike is going from right towards the left side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5526, "query": "Person on bike coming from right side is going outside of the frame in left side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5527, "query": "Bike coming from right side is going outside of the frame in left side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5528, "query": "Person on bike entering into frame from left side is going outside of the frame in right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5529, "query": "Bike entering into frame from left side is going outside of the frame in right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5530, "query": "Person on bike entering into frame from left side is going towards the right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5531, "query": "Bike entering into frame from left side is going towards the right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5532, "query": "Vehicle entering into frame from left side is going towards the right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5533, "query": "Vehicle entering into frame from right side is going towards the left side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5534, "query": "Goat is peeking over the wall", "vid": "505ed57c_0.0_112.0", "pred_relevant_windows": []}
+{"qid": 5535, "query": "Goat abstains from peeking over the wall", "vid": "505ed57c_0.0_112.0", "pred_relevant_windows": []}
+{"qid": 5536, "query": "Person on bicycle is making a slight right turn", "vid": "435d99e0_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5537, "query": "Bicycle is making a slight right turn", "vid": "435d99e0_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5538, "query": "Fish is swimming in the aquarium", "vid": "4d63d7df_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5539, "query": "Rabbit is playing with another rabbit", "vid": "6a6547d7_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5540, "query": "Bird is flying in the sky", "vid": "15e281a9_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5541, "query": "The rabbit begins to eat", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5542, "query": "The rabbit stands before another rabbit", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5543, "query": "The rabbit nibbles on the carrot", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5544, "query": "The rabbit glances up from its food", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5545, "query": "The lizard approaches the camera and eats", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5546, "query": "The rabbit moves away from the food and exits to the left", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5547, "query": "The rabbit moves behind another rabbit", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5548, "query": "The rabbit hops to the right and vanishes from view", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5549, "query": "The turtle steps on the food", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5550, "query": "A chicken comes into view from the right side of the camera", "vid": "63263f3f_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5551, "query": "The rabbit lowers its paws to the ground and jumps to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5552, "query": "The rabbit jumps to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5553, "query": "The rabbit jumps to the left", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5554, "query": "The rabbit pivots to the right", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5555, "query": "The rabbit heads to the left", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5556, "query": "The rabbit begins walking from a still position", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5557, "query": "The rabbit spins around and glances back", "vid": "ff64095e_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5558, "query": "The giraffe stretches its neck upright", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5559, "query": "The giraffe wraps its neck around another giraffe", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5560, "query": "The giraffe munches on food", "vid": "fb4a7958_0.0_80.0", "pred_relevant_windows": []}
+{"qid": 5561, "query": "The dog spins around and gazes down at the object on the ground", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5562, "query": "The dog pauses and looks around", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5563, "query": "The dog comes from the right and walks among the other dogs", "vid": "fb57abac_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5564, "query": "A car vanishes from the right side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5565, "query": "The bike exits from the right side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5566, "query": "The person exits the frame to the right", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5567, "query": "The bike passes another bike", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5568, "query": "The bike accelerates away from the other bikes", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5569, "query": "The person accelerates away from the other cyclists", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5570, "query": "The bike exits from the left side of the frame", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5571, "query": "The person exits the frame to the left", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5572, "query": "The person lifts his leg off the road while on the bike", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5573, "query": "The bike is obscured by other bikers in front of the camera", "vid": "f9bee2e2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5574, "query": "The fish rises upwards", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5575, "query": "The fish aligns itself vertically while gazing down at the lower surface", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5576, "query": "The fish swiftly flicks its tail and heads to the right", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5577, "query": "The fish adjusts its position from diagonal to straight", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5578, "query": "The fish slowly swims towards the right", "vid": "f6cdaca7_0.0_58.0", "pred_relevant_windows": []}
+{"qid": 5579, "query": "The zebra exits the frame to the right", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5580, "query": "The zebra sprints towards the center of the water pool", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5581, "query": "The zebra spins around and moves towards the water pool", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5582, "query": "The zebra raises its head and spins in a circle", "vid": "f4b271d4_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5583, "query": "A car vanishes from the right side of the frame", "vid": "f326bfb7_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5584, "query": "A car comes into view from the left side of the frame", "vid": "f326bfb7_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5585, "query": "The biker vanishes from the right side of the frame", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5586, "query": "The bike exits from the right side of the frame", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5587, "query": "The biker crashes down from a hovering position", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5588, "query": "The person glances over their shoulder", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5589, "query": "The biker launches into the air with his bike", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5590, "query": "The bike launches into the air", "vid": "ed82ce50_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5591, "query": "The horse shifts from left to right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5592, "query": "The horse trails behind another horse", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5593, "query": "The horse begins moving to the right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5594, "query": "The person leads the horse to the right", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5595, "query": "The person lowers the camera from his face", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5596, "query": "The person bends his body slightly from a standing position", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5597, "query": "The person observes the horses", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5598, "query": "The person gives something to another individual", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5599, "query": "The person runs and grasps a horse's body", "vid": "ef81cd52_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5600, "query": "The cat remains seated on the floor", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5601, "query": "The cat spins around and returns", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5602, "query": "The cat reclines from a seated position", "vid": "f10e23dd_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5603, "query": "The horse slightly moves to the right and turns away from the camera", "vid": "ec6fd219_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5604, "query": "The horse shifts from right to left", "vid": "ec6fd219_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5605, "query": "The turtle exits the frame to the right", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5606, "query": "The turtle turns left", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5607, "query": "The turtle spins around and walks away from the camera", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5608, "query": "The turtle is obscured by the shadow of another turtle above", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5609, "query": "A turtle enters the frame from the left", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5610, "query": "The turtle rests on the floor beneath another turtle", "vid": "ed5ec3c5_0.0_38.0", "pred_relevant_windows": []}
+{"qid": 5611, "query": "A boat trails behind other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5612, "query": "The person shifts behind other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5613, "query": "A boat passes in front of other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5614, "query": "The person shifts ahead of other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5615, "query": "A boat navigates between other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5616, "query": "The person navigates between other boats", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5617, "query": "A boat pivots from right to left", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5618, "query": "The person steers the boat from the right to the left", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5619, "query": "The boat swerves from the right to the left", "vid": "e7ef3b9d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5620, "query": "The turtle spins around and faces the camera", "vid": "ebd1dbad_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5621, "query": "The turtle walks away from the camera", "vid": "ebd1dbad_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5622, "query": "The panda reclines on the ground after being seated", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5623, "query": "The person places a cloth near the panda's face", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5624, "query": "The person grasps the panda's arm with her hand", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5625, "query": "The panda trails behind a person carrying cloth", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5626, "query": "The panda enters the frame from the left side", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5627, "query": "The person enters the frame from the left side", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5628, "query": "A person enters the frame from the right side", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5629, "query": "The panda enters the frame from the right side", "vid": "e78253f1_0.0_120.0", "pred_relevant_windows": []}
+{"qid": 5630, "query": "The lion rises from a seated position", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5631, "query": "The zebra nudges the lion with its head", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5632, "query": "The zebra gets away from the jaws of the lion", "vid": "e568ca41_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5633, "query": "A boat circles around a yellow object in the sea", "vid": "e3d901dd_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5634, "query": "The person circles around a yellow object on the sea", "vid": "e3d901dd_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5635, "query": "The fish veers from the left to the right", "vid": "d50fa72e_0.0_144.0", "pred_relevant_windows": []}
+{"qid": 5636, "query": "The fish glides slightly through the water to the right", "vid": "d50fa72e_0.0_144.0", "pred_relevant_windows": []}
+{"qid": 5637, "query": "The bicycle does a U-turn", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5638, "query": "The boy maneuvers his bicycle in a U-turn", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5639, "query": "A boy spins around from left to right", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5640, "query": "The person is obscured a little behind a boy", "vid": "e0a22a9b_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5641, "query": "The zebra rises from the water container to the ground", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5642, "query": "The zebra spins around and moves away from the water container", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5643, "query": "The zebra is shoved into the water surface", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5644, "query": "The zebra spins around from left to right", "vid": "d4f4cf55_0.0_100.0", "pred_relevant_windows": []}
+{"qid": 5645, "query": "The zebra strikes the gate and pivots to the right", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5646, "query": "The zebra spins around and faces away from the gate", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5647, "query": "The zebra crosses in front of the gate", "vid": "d501f685_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5648, "query": "A bird gazes to the right", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5649, "query": "A bird soars towards the camera", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5650, "query": "A bird leaps to a higher perch", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5651, "query": "A bird shifts its gaze from right to left", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5652, "query": "A bird spins around and gazes away from the camera", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5653, "query": "A bird glances to its left", "vid": "d41a62d4_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5654, "query": "The panda collapses onto its back", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5655, "query": "The panda knocks another panda to the ground", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5656, "query": "The panda uses its paws to scratch its face", "vid": "d3ba30b3_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5657, "query": "The fish turns around and faces the opposite direction", "vid": "d33e1c97_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5658, "query": "The zebra moves away from the camera", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5659, "query": "The zebra tilts its head to the left while on the grass", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5660, "query": "The zebra makes a subtle turn to the right", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5661, "query": "The zebra exits the frame to the left", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5662, "query": "The zebra turns its body to face the left", "vid": "d26036cd_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5663, "query": "The duck spins around and heads to the right", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5664, "query": "The duck spins around and faces to the right", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5665, "query": "The duck moves away from the camera and turns left", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5666, "query": "The duck begins to walk", "vid": "d0a07d68_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5667, "query": "The horse trails behind another horse", "vid": "d084134f_0.0_192.0", "pred_relevant_windows": []}
+{"qid": 5668, "query": "The horse slightly shifts its body to the left", "vid": "d084134f_0.0_192.0", "pred_relevant_windows": []}
+{"qid": 5669, "query": "A cat turns and strolls away from the camera", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5670, "query": "The cat laps at its leg", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5671, "query": "The cat spins around and looks back", "vid": "cfff47c3_0.0_164.0", "pred_relevant_windows": []}
+{"qid": 5672, "query": "The dog rises from a lying position", "vid": "caf53839_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5673, "query": "The dog nudges another dog with its head", "vid": "caf53839_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5674, "query": "The person is no longer visible in the frame", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5675, "query": "The cow shifts to the right", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5676, "query": "The cow shifts to the left", "vid": "cfe04aff_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5677, "query": "The panda lowers itself onto all fours", "vid": "c9dfbd0c_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5678, "query": "The panda scuffles with another panda", "vid": "c9dfbd0c_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5679, "query": "The ship stays stationary on the water", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5680, "query": "A boat subtly alters its course to the right", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5681, "query": "The person gazes down from the edge of the ship", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5682, "query": "The person moves away from the edge of the boat", "vid": "ca440c64_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5683, "query": "The tiger lowers its head to the ground", "vid": "c9a2645e_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5684, "query": "The tiger knocks another tiger to the ground", "vid": "c9a2645e_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5685, "query": "A bus vanishes off the frame to the right", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5686, "query": "A car exits the frame to the right", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5687, "query": "The person vanishes behind a box while walking", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5688, "query": "The person vanishes behind a car", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5689, "query": "A car vanishes behind another car", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5690, "query": "A bus emerges from the left side of the frame", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5691, "query": "A car comes into view from the left side of the frame", "vid": "c89239d8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5692, "query": "The person exits the frame to the right", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5693, "query": "The person surpasses other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5694, "query": "The cycle surpasses other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5695, "query": "The cycle is obstructed from view by another cyclist", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5696, "query": "The person is obstructed from view by another cyclist", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5697, "query": "The cyclist glances from his right to the front", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5698, "query": "The person enters the frame from the left side", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5699, "query": "The cycle enters the frame from the left side", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5700, "query": "The cyclist surpasses other cycles", "vid": "c7b07fea_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5701, "query": "The person circles around", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5702, "query": "The bicycle goes in a circular path", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5703, "query": "A car remains parked on the roadside", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5704, "query": "The person pivots and moves towards the camera", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5705, "query": "The person turns around and approaches the camera", "vid": "c7543b31_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5706, "query": "The cow halts its movement", "vid": "c705c014_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5707, "query": "The cow begins eating the leaves", "vid": "c705c014_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5708, "query": "The tiger trails behind another tiger", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5709, "query": "The tiger approaches another tiger", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5710, "query": "The tiger enters from the top of the frame", "vid": "c4fd77f2_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5711, "query": "The lizard pivots to the left", "vid": "c587e43b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5712, "query": "The person's hand vanishes from the left", "vid": "c587e43b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5713, "query": "The elephant passes beneath the trunk of another elephant", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5714, "query": "The elephant moves in reverse", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5715, "query": "The elephant extends its trunk across the face of another elephant", "vid": "c4ecad66_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5716, "query": "The fish emerges from behind the rock", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5717, "query": "The fish veers to the right", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5718, "query": "The fish gradually sinks", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5719, "query": "The fish rises between a rock and a platform", "vid": "c34989e3_0.0_44.0", "pred_relevant_windows": []}
+{"qid": 5720, "query": "The cow slips and sits down on the ground", "vid": "ba5644c3_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5721, "query": "The cow resumes walking", "vid": "ba5644c3_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5722, "query": "The lizard gazes down at the food bowl", "vid": "bd34e772_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5723, "query": "The lizard tilts forward into the food bowl", "vid": "bd34e772_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5724, "query": "The dog rises from a lying position", "vid": "c29ce49d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5725, "query": "The dog leaps onto another dog", "vid": "c29ce49d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5726, "query": "The horse passes other horses", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5727, "query": "The horseman passes other horsemen", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5728, "query": "The horse vanishes from the right side of the frame", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5729, "query": "The horseman vanishes from the right side of the frame", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5730, "query": "The horse is obscured by another horseman", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5731, "query": "The horseman is obscured by another horseman", "vid": "b97c4e2b_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5732, "query": "The horse bumps into another horse", "vid": "b8e00b22_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5733, "query": "The horse rears up on its hind legs", "vid": "b8e00b22_0.0_22.0", "pred_relevant_windows": []}
+{"qid": 5734, "query": "The fish switches direction from right to left", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5735, "query": "The fish glides through the water to the surface of the water", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5736, "query": "The fish swims of and moves away from the camera", "vid": "b87840e1_0.0_132.0", "pred_relevant_windows": []}
+{"qid": 5737, "query": "The fish glides through the water to the surface of the water", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5738, "query": "The fish rises upwards", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5739, "query": "The fish switches direction from right to left", "vid": "b7b9f632_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5740, "query": "The dog begins walking to the left", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5741, "query": "The dog leaps at another dog", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5742, "query": "The dog moves backward", "vid": "b692e3cb_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5743, "query": "The person spins in a circle", "vid": "b643add8_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5744, "query": "The bike spins on its rear tire while upright", "vid": "b643add8_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5745, "query": "The elephant halts its movement", "vid": "af48b2f9_0.0_232.0", "pred_relevant_windows": []}
+{"qid": 5746, "query": "The elephant lifts its front legs onto another elephant's body", "vid": "af48b2f9_0.0_232.0", "pred_relevant_windows": []}
+{"qid": 5747, "query": "A car makes a right turn", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5748, "query": "A car vanishes behind another car", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5749, "query": "A car exits the frame to the right", "vid": "ac8ecb27_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5750, "query": "The panda leaps onto another panda", "vid": "aaa8bd16_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5751, "query": "The cat gazes towards the camera", "vid": "aa925437_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5752, "query": "A cat clutches a toy with its paw", "vid": "aa925437_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5753, "query": "The goat shifts its mouth to the right and nibbles on food", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5754, "query": "The goat approaches the food near the steel bars", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5755, "query": "The goat sticks its head through the steel bars", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5756, "query": "The goat pivots and walks back", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5757, "query": "The goat turns its head to the left", "vid": "a87bbd47_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5758, "query": "The zebra exits the frame to the left", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5759, "query": "The zebra makes a small step to the left", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5760, "query": "The zebra leaps quickly", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5761, "query": "The zebra heads to the left", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5762, "query": "A cow enters the frame from the right side", "vid": "aa8df541_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5763, "query": "A cat nips at the hand", "vid": "a42fcfa9_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5764, "query": "The hand lifts towards the cat's face", "vid": "a42fcfa9_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5765, "query": "The plane alters its direction to the left", "vid": "a74b52eb_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5766, "query": "A bird shifts slightly to the left", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5767, "query": "The bird bends its head down to the food bowl", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5768, "query": "A bird gazes down at the food bowl", "vid": "a5249886_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5769, "query": "The rabbit exits the frame to the left", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5770, "query": "The rabbit begins walking from a seated position", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5771, "query": "The rabbit spins around and moves towards the red bowl", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5772, "query": "The rabbit moves beneath other rabbits", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5773, "query": "The rabbit shifts its head from right to left", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5774, "query": "The rabbit lowers its head from the top of the cage", "vid": "a10de0fc_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5775, "query": "A bull heads to the right", "vid": "a16e9661_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5776, "query": "A bull heads to the left", "vid": "a16e9661_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5777, "query": "A bird jumps onto another bird", "vid": "9069547d_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5778, "query": "A bird circles around another bird", "vid": "9069547d_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5779, "query": "The bear is circling around the tree", "vid": "95718597_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5780, "query": "A cat pounces on another cat", "vid": "69398c01_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5781, "query": "A cat is being flipped over by another cat", "vid": "69398c01_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5782, "query": "A boat shifts to the left and straightens", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5783, "query": "The ship drops into the water from a height", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5784, "query": "A boat shifts to the right and straightens", "vid": "817263d6_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5785, "query": "The monkey moves away from the box", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5786, "query": "The monkey seizes a yellow object", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5787, "query": "The monkey places a yellow object in its mouth", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5788, "query": "The monkey retrieves an object from the box", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5789, "query": "The monkey exits the frame to the right", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5790, "query": "The monkey takes hold of a yellow object and places it in its mouth", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5791, "query": "The monkey comes into view from behind another monkey", "vid": "6312935f_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5792, "query": "The bike tilts from the left to the right", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5793, "query": "The biker tilts from left to right", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5794, "query": "The bike passes another bike", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5795, "query": "The biker passes another biker", "vid": "30446667_0.0_62.0", "pred_relevant_windows": []}
+{"qid": 5796, "query": "The sheep remains upright motionless", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5797, "query": "The sheep begins walking", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5798, "query": "The sheep pivots to the left", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5799, "query": "A sheep enters the frame from the right", "vid": "19615388_0.0_66.0", "pred_relevant_windows": []}
+{"qid": 5800, "query": "A panda is preparing to climb a tree", "vid": "1a4b95d3_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5801, "query": "A panda is remaining still and not moving towards the tree", "vid": "1a4b95d3_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5802, "query": "A dog is walking away from the camera", "vid": "1aa4e7f6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5803, "query": "A dog is staying in the same position and not moving", "vid": "1aa4e7f6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5804, "query": "A horse is moving to the left", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5805, "query": "A horse begins to walk to the left", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5806, "query": "A horse is moving in circles around a person", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5807, "query": "Horse is trotting in circles around a person", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5808, "query": "A person is issuing commands to a horse", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5809, "query": "Person is commanding the horse", "vid": "1b664206_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5810, "query": "A bird is no longer flying", "vid": "1ef6cb7b_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5811, "query": "A goat is approaching the railing", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5812, "query": "A goat is approaching the camera", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5813, "query": "A goat is glancing to the left", "vid": "1f17cd7c_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5814, "query": "A bird is entering the food container from the floor", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5815, "query": "A bird is bothering the other birds", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5816, "query": "Bird is annoying other birds", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5817, "query": "Bird is harassing other birds", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5818, "query": "A bird is flying around the food container", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5819, "query": "Bird is looping around the food container", "vid": "9323c19c_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5820, "query": "A bunny is smelling the bed sheet", "vid": "7223bf62_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5821, "query": "A bunny is nibbling on leaves", "vid": "7223bf62_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5822, "query": "Bunny is munching on leaves", "vid": "7223bf62_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5823, "query": "A person on a bicycle is moving away from the camera", "vid": "6976cf19_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5824, "query": "A bicycle is riding away from the camera", "vid": "6976cf19_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5825, "query": "The tiger is moving to the left", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5826, "query": "The tiger is smelling a bus", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5827, "query": "The tiger is not moving", "vid": "5834b092_0.0_88.0", "pred_relevant_windows": []}
+{"qid": 5828, "query": "A bunny is engaging in a fight with another bunny", "vid": "4027a35b_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5829, "query": "Bunny is tussling with another bunny", "vid": "4027a35b_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5830, "query": "A chicken is pecking food off the floor", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5831, "query": "A chicken on the wall is moving to the left", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5832, "query": "A chicken is climbing from the floor to the top of the wall", "vid": "3054dbaf_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5833, "query": "The airplane is flying faster than another one", "vid": "1806a28d_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5834, "query": "The airplane is outpacing another airplane", "vid": "1806a28d_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5835, "query": "The airplane is flying slower than another one", "vid": "1806a28d_0.0_108.0", "pred_relevant_windows": []}
+{"qid": 5836, "query": "A person is mounting a bicycle", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5837, "query": "A person is riding their bicycle towards the left", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5838, "query": "The bicycle is heading to the left", "vid": "1220b722_0.0_184.0", "pred_relevant_windows": []}
+{"qid": 5839, "query": "A dog is engaging in a fight with another dog", "vid": "1123fd76_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5840, "query": "A bird strikes another with its beak", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5841, "query": "Bird jabbed another bird with its beak", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5842, "query": "A bird is moving to the left", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5843, "query": "A bird is tumbling off a plastic bottle", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5844, "query": "A bird has been struck by another bird's beak", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5845, "query": "A bird in line briefly approaches the camera", "vid": "957c33a7_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5846, "query": "A sheep is battling with a cow", "vid": "768c5810_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5847, "query": "A cow is battling with a sheep", "vid": "768c5810_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5848, "query": "Cow is contending with sheep", "vid": "768c5810_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5849, "query": "A person is moving to the right to park their bike", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5850, "query": "A bike is being moved to the right side for parking", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5851, "query": "The bike is immobile and parked", "vid": "454c7bb5_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5852, "query": "A bear is engaging in a battle with another bear", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5853, "query": "Bear is struggling with another bear", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5854, "query": "Bear is wrestling with another bear", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5855, "query": "A bear is coming into view from the right and heading left", "vid": "97f5bbc8_0.0_18.0", "pred_relevant_windows": []}
+{"qid": 5856, "query": "The vehicle is appearing from the left and exiting on the right", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5857, "query": "The vehicle is coming into view from the right and going off-screen on the left", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5858, "query": "A person is appearing in the frame from the right and exiting on the left", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5859, "query": "The vehicle is coming into view from the right and moving to the left", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5860, "query": "A person appearing from the right is moving to the left", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5861, "query": "The vehicle is still and stopped by the roadside", "vid": "0299d8d6_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5862, "query": "The airplane is touching down", "vid": "95a50b7d_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5863, "query": "The airplane is still and remains in its current position", "vid": "95a50b7d_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5864, "query": "The tiger is engaging in a fight with another tiger", "vid": "90d7f538_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5865, "query": "A monkey is moving in front of another monkey", "vid": "86b8e4ec_0.0_26.0", "pred_relevant_windows": []}
+{"qid": 5866, "query": "An elephant is lifting a basket with its trunk and handing it to a person", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5867, "query": "A person is taking a basket from the trunk of an elephant", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5868, "query": "Person is accepting the basket from the elephant's trunk", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5869, "query": "A person is signaling with his right hand to begin the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5870, "query": "A person is observing the race from the sidelines", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5871, "query": "A person is standing next to his elephant and observing the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5872, "query": "An elephant is standing with its handler and observing the race", "vid": "75a8cadb_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5873, "query": "A ship is approaching the camera", "vid": "71d35513_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5874, "query": "A ship is heading to the right", "vid": "71d35513_0.0_34.0", "pred_relevant_windows": []}
+{"qid": 5875, "query": "A duck is moving to the left", "vid": "68d9fb6a_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5876, "query": "A bird is flying to the right and then landing on another bird", "vid": "48cd08af_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5877, "query": "A bird is flying out of the frame from the bottom", "vid": "48cd08af_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5878, "query": "The tiger is moving to the right", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5879, "query": "The tiger is resting on the ground", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5880, "query": "The tiger has its front legs resting on another tiger", "vid": "39f0d139_0.0_48.0", "pred_relevant_windows": []}
+{"qid": 5881, "query": "The airplane on the runway is turning to the left", "vid": "35dff164_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5882, "query": "The airplane on the runway is still and remains in the same place", "vid": "35dff164_0.0_28.0", "pred_relevant_windows": []}
+{"qid": 5883, "query": "A bunny is moving from the center of the group to the left side", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5884, "query": "A bunny is moving from the left side of the group to the middle", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5885, "query": "A bunny is gazing at the camera", "vid": "15e09c8c_0.0_40.0", "pred_relevant_windows": []}
+{"qid": 5886, "query": "A monkey is smelling another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5887, "query": "A monkey is shoving another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5888, "query": "One monkey is being shoved by another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5889, "query": "One monkey is being pulled by another monkey", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5890, "query": "A monkey stays still and remains in the same spot", "vid": "012b09a0_0.0_70.0", "pred_relevant_windows": []}
+{"qid": 5891, "query": "A person on a bike is riding around another bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5892, "query": "A bike is rotating around another bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5893, "query": "A person is dismounting the bike", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5894, "query": "The bike is still and stays in the same spot", "vid": "9ed568e9_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5895, "query": "A giraffe is raising another giraffe's back leg with its head", "vid": "9b318a9c_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5896, "query": "Giraffe's back leg is being raised by another giraffe", "vid": "9b318a9c_0.0_114.0", "pred_relevant_windows": []}
+{"qid": 5897, "query": "A person is shifting the bike to the left", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5898, "query": "A person is pushing the bike to the left", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5899, "query": "The bike is still and stays in the same spot", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5900, "query": "A person on a bike is moving from right to left", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5901, "query": "The bike is moving from right to left", "vid": "7a8cfc91_0.0_42.0", "pred_relevant_windows": []}
+{"qid": 5902, "query": "A giraffe is assaulting another giraffe", "vid": "6c88a53b_0.0_84.0", "pred_relevant_windows": []}
+{"qid": 5903, "query": "The zebra is heading to the right", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5904, "query": "The zebra looking to the left is moving away from the camera", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5905, "query": "The zebra looking at the camera is rotating to the left", "vid": "6a47103e_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5906, "query": "A goat is resting its front legs on the back of another goat", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5907, "query": "A goat is searching for something on the ground", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5908, "query": "Goat is investigating something on the ground", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5909, "query": "A person is heading towards the goats", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5910, "query": "A person is standing still and remains in the same spot", "vid": "06eb2803_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5911, "query": "A monkey is climbing down from the back of another monkey", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5912, "query": "A monkey has its right hand resting on the left shoulder of another monkey", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5913, "query": "A monkey is examining the front of another monkey's body with its hand", "vid": "4d6a99ec_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5914, "query": "A lizard is battling another lizard", "vid": "3d8b1ee0_0.0_16.0", "pred_relevant_windows": []}
+{"qid": 5915, "query": "An elephant is moving to the right", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5916, "query": "An elephant is moving to the left", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5917, "query": "An elephant is approaching the camera", "vid": "3c5e3be8_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5918, "query": "A bird is moving from the bottom of the cage to the perch", "vid": "3c4f150c_0.0_250.0", "pred_relevant_windows": []}
+{"qid": 5919, "query": "A cat is moving from right to left", "vid": "2d802cb8_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5920, "query": "A cat is staying still and remaining in the same spot", "vid": "2d802cb8_0.0_50.0", "pred_relevant_windows": []}
+{"qid": 5921, "query": "A bird is engaging in combat with another bird", "vid": "2d0f3000_0.0_122.0", "pred_relevant_windows": []}
+{"qid": 5922, "query": "A cow is feeding from the food container", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5923, "query": "A cow is stepping backward", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5924, "query": "A cow is smelling the food container", "vid": "2cc7839e_0.0_72.0", "pred_relevant_windows": []}
+{"qid": 5925, "query": "The yacht is moving to the right", "vid": "2ca20519_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5926, "query": "The yacht is moving to the left", "vid": "2ca20519_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5927, "query": "The zebra is grazing on grass in the field", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5928, "query": "The zebra has its front legs resting on the back of another zebra", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5929, "query": "The zebra is gazing at the camera", "vid": "0d0030a7_0.0_126.0", "pred_relevant_windows": []}
+{"qid": 5930, "query": "A sheep is moving away from the camera", "vid": "2a19d8a2_0.0_86.0", "pred_relevant_windows": []}
+{"qid": 5931, "query": "A dog is establishing dominance in a fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5932, "query": "A dog is being overpowered in a fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5933, "query": "Dog is being outmatched in the fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5934, "query": "Dog is losing dominance in the fight with another dog", "vid": "2ab06287_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5935, "query": "A giraffe near the fence is moving to the right", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5936, "query": "A giraffe near the fence is feeding leaves", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5937, "query": "A person is watching the giraffe", "vid": "2b6e117d_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5938, "query": "A person on a bike is leaping", "vid": "2b827e3a_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5939, "query": "The bike is leaping", "vid": "2b827e3a_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5940, "query": "A dog is engaging in a fight with another dog", "vid": "2b84174e_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5941, "query": "Dog is clashing with another dog", "vid": "2b84174e_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5942, "query": "A dog is avoiding participation in the fight", "vid": "2b84174e_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5943, "query": "A cat is engaging in a tussle with another cat", "vid": "2c22cd4e_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5944, "query": "Cat is sparring with another cat", "vid": "2c22cd4e_0.0_102.0", "pred_relevant_windows": []}
+{"qid": 5945, "query": "A bear is engaging in a battle with another bear", "vid": "8b935b9f_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5946, "query": "A fish is swimming to the right", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5947, "query": "A fish in the water is exiting the frame from the bottom", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5948, "query": "A fish in the water is exiting the frame to the left", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5949, "query": "A fish comes into the frame from the right side and moves towards the left", "vid": "2a02f752_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5950, "query": "A bird is moving from the bottom of the cage to the perch", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5951, "query": "A bird is turning right", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5952, "query": "A bird on the perch briefly moves to the right", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5953, "query": "A bird at the bottom of the cage stays still and remains in the same spot continuously", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5954, "query": "A bird perched on the stand is still and remains in place at all times", "vid": "2bd72d60_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5955, "query": "A duck is consuming something from the ground", "vid": "3d04522a_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5956, "query": "A duck is refusing to eat food from the ground", "vid": "3d04522a_0.0_96.0", "pred_relevant_windows": []}
+{"qid": 5957, "query": "A panda is feeding from a container", "vid": "7e52df6a_0.0_36.0", "pred_relevant_windows": []}
+{"qid": 5958, "query": "A monkey stays still and remains in place", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5959, "query": "A monkey is exiting the frame to the right", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5960, "query": "A monkey coming into the frame from the left is resting on a stone", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5961, "query": "A monkey is coming into the frame from the left", "vid": "257cca89_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5962, "query": "The turtle climbs onto the back of another turtle", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5963, "query": "The turtle is transporting another turtle on its shell", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5964, "query": "The turtle is consuming something in the water", "vid": "429d96d4_0.0_74.0", "pred_relevant_windows": []}
+{"qid": 5965, "query": "A cat is observing something", "vid": "567bfc5a_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5966, "query": "A cat remains still in the same position constantly", "vid": "567bfc5a_0.0_52.0", "pred_relevant_windows": []}
+{"qid": 5967, "query": "A person's hand places a bird into view", "vid": "5251dbb9_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5968, "query": "Bird is introduced into the frame by a person's hand", "vid": "5251dbb9_0.0_30.0", "pred_relevant_windows": []}
+{"qid": 5969, "query": "A goat is facing the camera", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5970, "query": "A goat is smelling the wall", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5971, "query": "A goat is glancing to the right while facing away from the camera", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5972, "query": "A goat from the right is moving behind other goats", "vid": "2112a80d_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5973, "query": "A person on a bike is exiting the frame to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5974, "query": "The bike is exiting the frame to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5975, "query": "The vehicle is exiting the frame on the right side", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5976, "query": "The vehicle stays still and remains in the same spot at all times", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5977, "query": "A person on a bike is traveling from right to left", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5978, "query": "The bike is heading from right to left", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5979, "query": "A person on a bike coming from the right is exiting the frame to the left", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5980, "query": "A bike approaching from the right is leaving the frame on the left", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5981, "query": "A person on a bike entering from the left is exiting the frame to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5982, "query": "A bike coming into the frame from the left is exiting the frame to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5983, "query": "A person on a bike entering the frame from the left is moving to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5984, "query": "A bike coming in from the left is moving to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5985, "query": "The vehicle is coming into view from the left and moving to the right", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5986, "query": "The vehicle is coming into view from the right and heading towards the left", "vid": "6073aa21_0.0_32.0", "pred_relevant_windows": []}
+{"qid": 5987, "query": "A goat is peering over the wall", "vid": "505ed57c_0.0_112.0", "pred_relevant_windows": []}
+{"qid": 5988, "query": "A goat refrains from peeking over the wall", "vid": "505ed57c_0.0_112.0", "pred_relevant_windows": []}
+{"qid": 5989, "query": "A person on a bicycle is turning slightly to the right", "vid": "435d99e0_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5990, "query": "A bicycle is turning gently to the right", "vid": "435d99e0_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5991, "query": "Bicycle is drifting rightward slightly", "vid": "435d99e0_0.0_46.0", "pred_relevant_windows": []}
+{"qid": 5992, "query": "A fish is gliding through the aquarium", "vid": "4d63d7df_0.0_60.0", "pred_relevant_windows": []}
+{"qid": 5993, "query": "A rabbit is interacting with another rabbit", "vid": "6a6547d7_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5994, "query": "Rabbit is frolicking with another rabbit", "vid": "6a6547d7_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5995, "query": "Rabbit is romping with another rabbit", "vid": "6a6547d7_0.0_54.0", "pred_relevant_windows": []}
+{"qid": 5996, "query": "A bird is cruising through the sky", "vid": "15e281a9_0.0_30.0", "pred_relevant_windows": []}
